@@ -1,6 +1,49 @@
 {
   "categorias": [
     {
+      "titulo": "Mercado Financeiro",
+      "link": "https://pt.wikipedia.org/wiki/Mercado_financeiro",
+      "cor": "#993399",
+      "link_extra": {
+        "text": "Sobre o mercado financeiro",
+        "url": "https://pt.wikipedia.org/wiki/Mercado_financeiro"
+      },
+      "videos": [
+        {
+          "titulo": "Can We Kiss, melhor música do momento?",
+          "url": "https://www.youtube.com/watch?v=qz7tCZE_3wA"
+        },
+        {
+          "titulo": "Como funciona o mercado financeiro",
+          "url": "https://www.youtube.com/watch?v=llzOggL1xUI"
+        },
+        {
+          "titulo": "Como investir em ações com pouco dinheiro",
+          "url": "https://www.youtube.com/watch?v=KsTx10ikbdc"
+        },
+        {
+          "titulo": "Como investir em ações",
+          "url": "https://www.youtube.com/watch?v=u8v0WadRLTE"
+        },
+        {
+          "titulo": "Tudo sobre renda fixa",
+          "url": "https://www.youtube.com/watch?v=ysm9ZJ6O67w"
+        },
+        {
+          "titulo": "Fundos imobiliarios",
+          "url": "https://www.youtube.com/watch?v=rhXn31-CKrg"
+        },
+        {
+          "titulo": "Day trade, vale a pena?",
+          "url": "https://www.youtube.com/watch?v=eEvA-CPRzxU"
+        },
+        {
+          "titulo": "O que é Swing Trade?",
+          "url": "https://www.youtube.com/watch?v=p4Ckxo2Dens"
+        }        
+      ]
+    },
+    {
       "titulo": "Front End",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
@@ -9,10 +52,6 @@
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
-        {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
-        },
         {
           "titulo": "SEO com React",
           "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
@@ -103,6 +142,10 @@
       "titulo": "Filmes",
       "cor": "orange",
       "videos": [
+        {
+          "titulo": "Vingadores Ultimato",
+          "url": "https://www.youtube.com/watch?v=g6ng8iy-l0U"
+        },
         {
           "titulo": "Interestellar",
           "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
