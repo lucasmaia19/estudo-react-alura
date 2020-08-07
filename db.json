@@ -2,11 +2,11 @@
   "categorias": [
     {
       "id": 6,
-      "titulo": "DevSoutinho",
-      "cor": "#ff6a00",
+      "titulo": "Musicas",
+      "cor": "#993399",
       "link_extra": {
-        "text": "Canal no YouTube",
-        "url": "https://youtube.com/c/DevSoutinho"
+        "text": "Musicas favoritas",
+        "url": ""
       }
     },
     {
@@ -14,8 +14,8 @@
       "titulo": "Games",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Formação de Jogos",
+        "url": ""
       }
     },
     {
@@ -55,21 +55,21 @@
     {
       "id": 50,
       "categoriaId": 6,
-      "titulo": "SEO com React",
-      "description": "Será que é tão difícil fazer SEO com React?",
-      "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+      "titulo": "Can We Kiss",
+      "description": "Musica para relaxar",
+      "url": "https://www.youtube.com/watch?v=7Ahi_I1XLdw"
     },
     {
       "id": 51,
       "categoriaId": 6,
-      "titulo": "Como fazer um React e aprender a ideia do Virtual DOM na prática",
-      "description": "Já parou pra pensar como que o React renderiza as coisas na tela?",
-      "url": "https://www.youtube.com/watch?v=5MzOCxSWrrc"
+      "titulo": "",
+      "description": "",
+      "url": "https://www.youtube.com/watch?v=Ywq6FMLbWH4"
     },
     {
       "id": 1,
       "categoriaId": 1,
-      "titulo": "SEO com React",
+      "titulo": "",
       "description": "Será que é tão difícil fazer SEO com React?",
       "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
     },
@@ -100,8 +100,8 @@
     {
       "id": 6,
       "categoriaId": 1,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=L9I2s-TGERQ"
     },
     {
       "id": 7,
@@ -190,8 +190,8 @@
     {
       "id": 21,
       "categoriaId": 5,
-      "titulo": "Final Fantasy 7",
-      "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+      "titulo": "The Last of US parte II",
+      "url": "https://www.youtube.com/watch?v=ru5IU8bGx3A"
     },
     {
       "id": 22,
@@ -212,26 +212,26 @@
       "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
     },
     {
-      "titulo": "O que todo projeto deveria ter? #01",
-      "url": "https://www.youtube.com/watch?v=yMRSDdifGW8",
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=y182SJTws8U",
       "categoriaId": 6,
       "id": 52
     },
     {
-      "titulo": "Como fazer um jogo com JavaScript?",
-      "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=HSxPA8LQgjA",
       "categoriaId": 6,
       "id": 53
     },
     {
-      "titulo": "Como fazer o efeito de desenhar com CSS?",
-      "url": "https://www.youtube.com/watch?v=4cEMgap9wpk",
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=L9I2s-TGERQ",
       "categoriaId": 6,
       "id": 54
     },
     {
-      "titulo": "Usando Excel como CMS + React",
-      "url": "https://www.youtube.com/watch?v=5t2gq3xJZ9o",
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=tN5Amon0r0A",
       "categoriaId": 6,
       "id": 55
     },
@@ -240,6 +240,12 @@
       "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
       "categoriaId": 1,
       "id": 56
+    },
+    {
+      "titulo": "",
+      "url": "https://www.youtube.com/watch?v=h_1hHpW3TAk",
+      "categoriaId": 6,
+      "id": 57
     }
   ]
 }
