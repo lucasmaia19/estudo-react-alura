@@ -37,7 +37,7 @@ function CadastroVideo() {
           return categoria.titulo === values.categoria;
         });
 
-        videosRepository.create({
+        videosRepository.create({ 
           titulo: values.titulo,
           url: values.url,
           categoriaId: categoriaEscolhida.id,
